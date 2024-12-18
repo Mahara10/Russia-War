@@ -1,3 +1,7 @@
+![ftcms_8c5e353d-6223-463a-889a-cdb141fe6182](https://github.com/user-attachments/assets/aa01705a-cc9d-4a51-b910-f818708fbf5b)
+
+
+
 # Russia-War
 This project serves as a comprehensive tool for understanding the dynamics of Russian equipment losses. By leveraging key metrics and interactive dashboards, stakeholders can gain actionable insights into military operations, identify critical trends, and evaluate the effectiveness of strategies over time.
 
