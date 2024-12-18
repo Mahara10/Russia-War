@@ -74,3 +74,8 @@ High cumulative losses in vehicles and fuel tanks indicate potential challenges 
 Anomalies:
 
 Detected significant anomalies in losses for specific equipment types, which can provide insights into unexpected events or shifts in tactics.
+
+
+
+![download (5)](https://github.com/user-attachments/assets/20052816-7c86-41bd-bc18-a15a4cc342ab)
+
