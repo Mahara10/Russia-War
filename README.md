@@ -6,7 +6,7 @@
 This project serves as a comprehensive tool for understanding the dynamics of Russian equipment losses. By leveraging key metrics and interactive dashboards, stakeholders can gain actionable insights into military operations, identify critical trends, and evaluate the effectiveness of strategies over time.
 
 
-Key Metrics
+# Key Metrics
 The following key metrics were used in the analysis:
 
 Daily Loss Count:
@@ -29,7 +29,7 @@ Total losses across all equipment types
 Losses for a specific equipment type
 ​
  
-Greatest Losses Direction Frequency:
+# Greatest Losses Direction Frequency:
 
 Number of times a specific region or direction had the highest losses.
 Correlation Between Equipment Types:
